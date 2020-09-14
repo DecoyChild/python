@@ -1,4 +1,4 @@
-#syntax for lists, dictionaries and 
+#syntax for lists, dictionaries, sets and tuples 
 
 # This is a list: 
 listA = ['element 1', 'element 2', 'element 3']
